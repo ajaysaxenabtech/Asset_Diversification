@@ -21,21 +21,21 @@ This project implements a **Portfolio Optimizer** that:
 ### Portfolio Variance
 For *n* assets with weights \( w \), covariance matrix \( \Sigma \):
 
-\[
+$$
 \sigma_p^2 = w^T \Sigma w
-\]
+$$
 
 ### Portfolio Volatility
-\[
+$$
 \sigma_p = \sqrt{w^T \Sigma w}
-\]
+$$
 
 ### Optimization Problem
 We minimize risk subject to full investment:
 
-\[
+$$
 \min_w \, \sigma_p \quad \text{s.t.} \quad \sum_{i=1}^n w_i = 1, \, w_i \geq 0
-\]
+$$
 
 ---
 
