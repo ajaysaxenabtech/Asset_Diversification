@@ -1,5 +1,5 @@
 
-# Asset Diversification & Portfolio Risk Optimization (Python OOP)
+# Asset Diversification & Portfolio Risk Optimization 
 
 This repository demonstrates how to **analyze diversification** in a portfolio through **covariance and correlation** among assets, and then **optimize the portfolio for minimum risk** using Python and Object-Oriented Programming (OOP).
 
